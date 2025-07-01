@@ -4,7 +4,7 @@ title: "Anastassia Shaitarova"
 ---
 
 <p align="center">
-  <img width="200" height="200" src="/images/relaxed_bw_small.png" />
+  <img width="200" height="200" src="/images/relaxed_bw_small.jpg" />
 </p>
 
 

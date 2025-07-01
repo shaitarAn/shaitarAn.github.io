@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: Home, icon: home}
+  - {file: "index.md", icon: home, title: Home}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/shaitarAn"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/anastassia-shaitarova/"}
 
-comments:
+# comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
