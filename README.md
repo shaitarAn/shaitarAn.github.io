@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "About Me"
+# permalink: "/about/"
 layout: page
 ---
 
@@ -69,9 +69,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:anastassia.shaitarova@uzh.ch"}
+  - {title: Github, icon: github, url: "https://github.com/shaitarAn"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/anastassia-shaitarova/"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
