@@ -1,8 +1,59 @@
 .title
   font-size: 1.25em
 
+.timeline
+  border-left: 3px solid #ccc
+  padding-left: 1.5em
+  margin-top: 2em
+
+.timeline-entry
+  margin-bottom: 2em
+  position: relative
+
+.timeline-date
+  font-weight: bold
+  color: #555
+  margin-bottom: 0.5em
+  display: inline-block
+
+.timeline-body
+  display: flex
+  flex-wrap: wrap
+  gap: 1em
+
+.timeline-text
+  flex: 1 1 60%
+  min-width: 250px
+
+.timeline-image
+  flex: 1 1 35%
+  min-width: 200px
+
+  img
+    max-width: 100%
+    border-radius: 6px
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15)
+
+.talk-card
+  border: 1px solid #ddd
+  padding: 1em
+  border-radius: 8px
+  margin-bottom: 1em
+  background-color: #fdfdfd
+
+
 .more
   margin: 2em 0 1em
+
+.circular
+  border-radius: 50%
+  width: 200px
+  height: 200px
+  border-radius: 50%
+  object-fit: cover
+
+.bw
+  filter: grayscale(100%)
 
 .more a
   border-radius: 2px

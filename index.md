@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Anastassia Shaitarova"
+title: "Dr. Anastassia Shaitarova"
 ---
 
 <p align="center">
-  <img width="200" height="200" src="/images/relaxed_bw_small.jpg" />
+  <img src="/images/relaxed_bw_small.jpg" class="circular" />
 </p>
 
 
-I am a postdoctoral researcher at the University of Zurich, Switzerland. 
+
+I am a computational linguist with a strong focus on multilingual NLP, language change, and AI-generated language. My work combines statistical analysis, machine learning, and linguistic theory to understand how technologies like ChatGPT and neural machine translation shape natural language use. I design behavioral experiments, conduct large-scale corpus analyses, and work hands-on with tools like Python, R, and open-source language models. My topics cover topics negation scope resolution, stylometry, and biomedical NLP. 
 
 [GitHub](https://github.com/shaitarAn)  &nbsp; &nbsp; [ORCiD](https://orcid.org/0000-0003-3124-190X)  &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?user=9D5jT-QAAAAJ&hl=en)  &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Anastassia-Shaitarova)
