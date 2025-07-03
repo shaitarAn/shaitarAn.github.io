@@ -15,6 +15,7 @@ minimal: false             # use a dark header
 
 # Menu
 
+
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", icon: home, title: Home}
   - {url: "/talks/", title: "Talks & Lectures", icon: comments}
