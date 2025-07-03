@@ -9,6 +9,23 @@ title: Talks & Lectures
 
 <div class="timeline">
 
+<div class="timeline-entry">
+  <span class="timeline-date">June 2025</span>
+  <div class="timeline-body">
+    <div class="timeline-text">
+      <strong>Bullinger Digital 2.0: Suchsystem und Korpus</strong><br>
+      <em>Project Presentation – Abschlussveranstaltung Bullinger Digital</em><br>
+      I gave this presentation at the final event of the Bullinger Digital project. The talk introduced our interactive search system and highlighted new features developed to make historical letters more accessible, such as multilingual interface options, timeline filters, and topic detection using large language models.
+      <br>
+      <a href="https://www.linkedin.com/posts/cl-uzh_hbbwedition-bullingerbriefwechsel-digitalhumanities-ugcPost-7328762123239485440-8L5o">🔗 LinkedIn Post</a>
+      <a href="https://www.bullinger-digital.ch/index.html">🔗 Explore the Corpus!</a>
+    </div>
+    <div class="timeline-image">
+      <img src="/images/bullinger.jpeg" alt="Bullinger Digital presentation" />
+    </div>
+  </div>
+</div>
+
   <div class="timeline-entry">
     <span class="timeline-date"> November 2024</span>
     <div class="timeline-body">
@@ -41,9 +58,9 @@ title: Talks & Lectures
         <!-- <br> -->
         <!-- <a href="https://aclanthology.org/2024.swisstext-1.9/">📄 Read Paper</a> -->
       </div>
-          <!-- <div class="timeline-image">
-        <img src="/images/swisstext.png" alt="Slide preview" />
-      </div> -->
+          <div class="timeline-image">
+        <img src="/images/forensic_ling.jpg" alt="Slide preview" />
+      </div>
     </div>
   </div>
 
@@ -120,7 +137,7 @@ title: Talks & Lectures
         <a href="https://ai-booster.ch/events/expert-day/?lang=de">🎤 Event info</a>
       </div>
     <div class="timeline-image">
-        <img src="/images/expert-day.jpeg" alt="Slide preview" />
+        <img src="/images/expert_day_cropped.jpeg" alt="Slide preview" />
       </div>
     </div>
   </div>
